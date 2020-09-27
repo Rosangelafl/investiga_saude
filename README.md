@@ -1,7 +1,6 @@
-# investiga_saude
+Investigação de fornecedores de produtos farmacêuticos para o SUS
 
-Matéria publicada no The Intercept Brasil
-https://theintercept.com/2019/01/15/hospfar-superfaturamento/
+[Matéria publicada no The Intercept Brasil](https://theintercept.com/2019/01/15/hospfar-superfaturamento/)
 
 Investigação e análise de dados sobre fornecedores de medicamentos réus em ações de improbidade administrativa que continuam a fornecer para o governo federal
 
@@ -9,5 +8,4 @@ Rés em ações judiciais estaduais e federais, geralmente, por fraudes em licit
 
 Com dados abertos e públicos da Controladoria e dos fornecedores ativos do Governo Federal com dados estruturados pelo Datascópio [Dados originais: SIAFI, Portal da Transparência], encontramos réus e condenados com base na Lei de Licitações (Lei nº 8.666/93) que continuam fornecedoras aptas e ativas do Governo Federal brasileiro.
 
-
-DataViz.: https://public.tableau.com/views/RsfornecedorasdoGovernoFederal/Painel1?:embed=y&:display_count=yes
+![Viz](https://public.tableau.com/views/RsfornecedorasdoGovernoFederal/Painel1?:embed=y&:display_count=yes)
